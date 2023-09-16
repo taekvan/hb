@@ -17,11 +17,11 @@ allure --version
 ## How to run tests
 E.g.:
 ```bash
-pytest --browser firefox -n 2 --alluredir=.\allure-results
+pytest --browser chrome -n 2 --alluredir=.\allure-results
 ```
 where 
-- ```--browser firefox``` is for running tests in e.g. firefox (*chrome* is used by default),
-- ```--alluredir=.\allure-results``` is for generating .json tests results. Optional argument.
+- ```--browser chrome``` runs tests in chrome browser. Possible values [chomre, firefox] (*chrome* is used by default). Optional argument,
+- ```--alluredir=.\allure-results``` is for generating .json tests results. Optional argument,
 - ```-n 2``` run tests in 2 parallel threads. Optional argument.
 
 ## Reports
