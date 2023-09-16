@@ -1,0 +1,21 @@
+# Byte-compiled
+__pycache__/
+
+# User-specific stuff
+.vscode
+.idea
+
+# Logs:
+*.log
+
+# temp  dir
+/tmp/
+# allure
+/allure/
+/allure-results/
+/allure-report/
+
+# Environments
+.venv
+env/
+venv/
