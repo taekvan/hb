@@ -2,21 +2,6 @@
 
 All project dependencies are listed in [requirements.txt](requirements.txt) file.
 
-## Structure
-- **api**
-  - clients *(requests methods wrappers)*
-  - models *(GraphQL query builders)*
-    - tests
-      - features *(Gherkin feature files)*
-      - steps *(Gherkin steps implementations)*
-- **core**
-  - utilities *(utility classes for e.g. logging)*
-- **ui**
-  - pages *(Page Object pattern)*
-  - tests
-    - features *(Gherkin feature files)*
-    - steps *(Gherkin steps implementations)*
-  - workflows *(complex interactions with pages)*
 
 ## How to run tests
 E.g.:
