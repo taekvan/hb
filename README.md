@@ -2,6 +2,8 @@
 
 All project dependencies are listed in [requirements.txt](requirements.txt) file.
 
+## Python version
+3.10 and above
 
 ## How to run tests
 E.g.:
