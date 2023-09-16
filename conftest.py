@@ -78,5 +78,5 @@ def page_factory(browser):
     return PageFactory(browser)
 
 
-def pytest_cmdline_main(config):
+def pytest_sessionstart(session):
     load_dotenv()
