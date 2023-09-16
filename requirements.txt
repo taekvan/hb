@@ -1,7 +1,7 @@
 pytest>=7.4.0
-pytest-xdist==2.5.0
-selenium
-allure-pytest
-Faker
-python-dotenv
-flake8
+pytest-xdist>=3.3
+selenium>=4.12
+allure-pytest>=2.13
+Faker>=19
+python-dotenv>=1
+flake8>=6
