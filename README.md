@@ -2,8 +2,17 @@
 
 All project dependencies are listed in [requirements.txt](requirements.txt) file.
 
-## Python version
-3.10 and above
+
+## Preparation
+1) Use python version 3.10 and above
+2) install requirements
+```bash
+pip install -r requirements.txt
+```
+3) install allure according to :https://docs.qameta.io/allure/#_installing_a_commandline. Check allure version:
+```bash
+allure --version
+```
 
 ## How to run tests
 E.g.:
@@ -24,12 +33,6 @@ Generated report will be placed in ```allure-report``` folder.
 To see the results run:
 ```bash
 allure serve allure-results
-```
-
-*NOTE*:
-In case of allure related errors install allure according to :https://docs.qameta.io/allure/#_installing_a_commandline
-```bash
-allure --version
 ```
 
 ## Screenshots
