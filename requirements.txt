@@ -1,0 +1,7 @@
+pytest>=7.4.0
+pytest-xdist==2.5.0
+selenium
+allure-pytest
+Faker
+python-dotenv
+flake8

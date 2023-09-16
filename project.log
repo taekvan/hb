@@ -1,0 +1,18 @@
+[09/15/2023 11:23:16] INFO [/home/alex/godel/test/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:79] No confirm phone number button found
+[09/15/2023 11:23:30] INFO [/home/alex/godel/test/home_buddy_pytest_selenium/conftest.py:55] SEVERE - security
+https://hb-autotests.stage.sirenltd.dev/hvac - Failed to find a valid digest in the 'integrity' attribute for resource 'https://www.googleoptimize.com/optimize.js?id=OPT-5XV4ZT5' with computed SHA-384 integrity 'dm4jvMPVI63UaDzmhIc04AmfCCIg/Bi7mlSGJIeixHdLKKjfOrl42UdzubGd3/9R'. The resource has been blocked.
+[09/15/2023 11:23:32] INFO [/home/alex/godel/test/home_buddy_pytest_selenium/conftest.py:55] WARNING - console-api
+https://analytics.tiktok.com/i18n/pixel/static/main.MTE1ODM4MDNhNQ.js 4:22351 "[TikTok Pixel] - Missing 'content_id' paramter\nIssue: The 'content_id' parameter isn't being received. This is required for Video Shopping Ads (VSA).\nSuggestion: Include the 'content_id' parameter in your source code. This is required for Video Shopping Ads (VSA). See https://ads.tiktok.com/help/article/standard-events-parameters?redirected=2 for more information."
+[09/15/2023 12:05:32] INFO [/home/alex/godel/test/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:91] No confirm phone number button found
+[09/15/2023 12:45:23] INFO [/home/alex/godel/test/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/15/2023 13:43:16] INFO [/home/alex/godel/test/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/15/2023 14:34:08] INFO [/home/alex/godel/test/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/15/2023 15:09:58] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/15/2023 17:54:12] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/15/2023 18:26:23] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/15/2023 18:33:06] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/15/2023 18:41:14] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/16/2023 10:33:56] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/16/2023 11:08:02] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/16/2023 11:10:32] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:97] No confirm phone number button found
+[09/16/2023 11:51:16] INFO [/home/alex/godel/test/1/home_buddy_pytest_selenium/tests/ui/e2e/hvac/hvac_page_methods.py:99] No confirm phone number button found
